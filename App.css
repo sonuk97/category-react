@@ -1,0 +1,36 @@
+.box{
+  align-content: center;
+  background: rgb(228, 243, 243);
+  height: 150px;
+  width: 300px;
+  padding: 100px;
+  border: 1px solid;
+  
+}
+.item{
+  height: 20px;
+  width: 250px;
+  padding: 10px;
+  font-size: 20px;
+  
+  
+  
+}
+.tab{
+  padding: 100px;
+  box-shadow: 20px;
+}
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+} 
+.item:hover{
+  background: aqua;
+}
